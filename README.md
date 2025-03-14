@@ -2,7 +2,7 @@
 
 A fun and interactive memory card matching game built with HTML, CSS, and JavaScript.
 
-![Memory Match Game Screenshot](https://raw.githubusercontent.com/saeed9321/mcp-game-test/master/game-screenshot.png)
+![Memory Match Game Screenshot](https://raw.githubusercontent.com/saeed9321/mcp-game-test/master/screenshots/game-screenshot.png)
 
 ## Features
 
